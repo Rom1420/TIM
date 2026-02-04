@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibraryV2
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5120691186935801628
+  m_GuidHigh: 3016239667665010359
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5696855974769182435
+      m_GuidHigh: 11070138702433231253
+    m_SerializedTextureGuid:
+      m_GuidLow: 11359414119636574918
+      m_GuidHigh: 2396161949558193480
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5269328509961930878
+      m_GuidHigh: 9573419314882247824
+    m_SerializedTextureGuid:
+      m_GuidLow: 12665519477739697083
+      m_GuidHigh: 13751692790097606763
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5059697574751424531
+      m_GuidHigh: 12035848273871764151
+    m_SerializedTextureGuid:
+      m_GuidLow: 4140024607963663547
+      m_GuidHigh: 953535656446049163
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5232179711339966580
+      m_GuidHigh: 14675371570214266789
+    m_SerializedTextureGuid:
+      m_GuidLow: 14048095279303566654
+      m_GuidHigh: 5127237614964609386
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room07
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5611916063834545792
+      m_GuidHigh: 3786691260397419913
+    m_SerializedTextureGuid:
+      m_GuidLow: 7049260315502092714
+      m_GuidHigh: 1447484978019604618
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room25
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4731610641863114862
+      m_GuidHigh: 16444000575894072719
+    m_SerializedTextureGuid:
+      m_GuidLow: 10418126867119060804
+      m_GuidHigh: 107598494154537368
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room42
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5638518000503269395
+      m_GuidHigh: 15842126767888502935
+    m_SerializedTextureGuid:
+      m_GuidLow: 16930391784661253410
+      m_GuidHigh: 9807326586279570187
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room260
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4733143177891985953
+      m_GuidHigh: 18291293605422757542
+    m_SerializedTextureGuid:
+      m_GuidLow: 6761073175177931056
+      m_GuidHigh: 15081357464886073754
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room420
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4998838477495370334
+      m_GuidHigh: 12098699892281441711
+    m_SerializedTextureGuid:
+      m_GuidLow: 17056511769982283614
+      m_GuidHigh: 13213017916174151305
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room507
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5477819329851384719
+      m_GuidHigh: 4747982524984078487
+    m_SerializedTextureGuid:
+      m_GuidLow: 8292436628032807495
+      m_GuidHigh: 15018796472709479626
+    m_Size: {x: 0.12, y: 0.12}
+    m_SpecifySize: 1
+    m_Name: room682
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5278201664739040011
+      m_GuidHigh: 11201333473782078889
+    m_SerializedTextureGuid:
+      m_GuidLow: 5977605016356817467
+      m_GuidHigh: 4958474679665553096
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: amphitheater
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5225254470399177066
+      m_GuidHigh: 15508905950364309669
+    m_SerializedTextureGuid:
+      m_GuidLow: 6608128527186600593
+      m_GuidHigh: 13947275598600852731
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cafeteria
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5544574376523414316
+      m_GuidHigh: 1348468661862784656
+    m_SerializedTextureGuid:
+      m_GuidLow: 6590081165210449286
+      m_GuidHigh: 15107632973551216523
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: garden
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4909379498052142214
+      m_GuidHigh: 13806328982901971882
+    m_SerializedTextureGuid:
+      m_GuidLow: 9661466631464447178
+      m_GuidHigh: 16654193117349997515
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: gym
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4723737175555762640
+      m_GuidHigh: 15901734691481190076
+    m_SerializedTextureGuid:
+      m_GuidLow: 5973087526736444790
+      m_GuidHigh: 10205226993680873099
+    m_Size: {x: 0.17, y: 0.17}
+    m_SpecifySize: 1
+    m_Name: infirmery
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4884749025216218164
+      m_GuidHigh: 8208671751775305350
+    m_SerializedTextureGuid:
+      m_GuidLow: 5247948782308478571
+      m_GuidHigh: 17894433887104861034
+    m_Size: {x: 0.14, y: 0.14}
+    m_SpecifySize: 1
+    m_Name: musicclass
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4863184591205755040
+      m_GuidHigh: 926348867613724069
+    m_SerializedTextureGuid:
+      m_GuidLow: 1870383460648812315
+      m_GuidHigh: 5334146746233299483
+    m_Size: {x: 0.14, y: 0.14}
+    m_SpecifySize: 1
+    m_Name: playground
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4719998764694005997
+      m_GuidHigh: 4252887928695933337
+    m_SerializedTextureGuid:
+      m_GuidLow: 1293720801804721826
+      m_GuidHigh: 8542580652864159787
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: restroom
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5314115102168818295
+      m_GuidHigh: 11329038095545557377
+    m_SerializedTextureGuid:
+      m_GuidLow: 13390346778841408434
+      m_GuidHigh: 12246021873334968473
+    m_Size: {x: 0.17, y: 0.17}
+    m_SpecifySize: 1
+    m_Name: swimmingpool
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5529005039783762038
+      m_GuidHigh: 5243532346206810807
+    m_SerializedTextureGuid:
+      m_GuidLow: 15259528182012649146
+      m_GuidHigh: 13118477225431468138
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: immersiveroom
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5453873464512117442
+      m_GuidHigh: 9771412736470608816
+    m_SerializedTextureGuid:
+      m_GuidLow: 739731384140034442
+      m_GuidHigh: 6380980533729848137
+    m_Size: {x: 0.25, y: 0.25}
+    m_SpecifySize: 1
+    m_Name: directoroffice
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5483129100018926999
+      m_GuidHigh: 4119636091158155172
+    m_SerializedTextureGuid:
+      m_GuidLow: 17403087142564107013
+      m_GuidHigh: 6284991410429754346
+    m_Size: {x: 0.08, y: 0.08}
+    m_SpecifySize: 1
+    m_Name: library
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4974663071612003831
+      m_GuidHigh: 15716455051898125224
+    m_SerializedTextureGuid:
+      m_GuidLow: 5864965434344362870
+      m_GuidHigh: 13928613479188528360
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: secretariat
+    m_Texture: {fileID: 0}

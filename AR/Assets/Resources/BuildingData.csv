@@ -1,0 +1,24 @@
+room_id,number_of_seats_available,evacuation_map,objects_present
+Infirmery,6,EXIT:North;ANGLE:0,bed|medical cabinet|sink|first aid kit
+RestRoom,0,EXIT:North;ANGLE:0,toilets|sink|hand dryer
+Library,120,EXIT:North;ANGLE:0,bookshelves|tables|chairs|computers|printer
+Gym,0,EXIT:North;ANGLE:0,sports equipment|mats|lockers|showers
+MusicClass,30,EXIT:West;ANGLE:270,piano|music stands|chairs|speakers
+Playground,0,EXIT:West;ANGLE:270,benches|play structures|trash bins
+SwimmingPool,0,EXIT:West;ANGLE:270,pool|starting blocks|lifebuoy|showers
+Garden,20,EXIT:South;ANGLE:180,benches|trees|tables
+Room260,40,EXIT:North;ANGLE:0,tables|chairs|projector|whiteboard
+Room420,45,EXIT:North;ANGLE:0,tables|chairs|projector|whiteboard
+Room507,30,EXIT:North;ANGLE:0,tables|chairs|computers|whiteboard
+Room682,35,EXIT:North;ANGLE:0,tables|chairs|projector|whiteboard
+Room25,25,EXIT:North;ANGLE:0,tables|chairs|screen|whiteboard
+Room42,20,EXIT:North;ANGLE:0,tables|chairs|screen|whiteboard
+Amphitheater,280,EXIT:South;ANGLE:180,tiered seats|stage|projector|sound system
+DirectorOffice,4,EXIT:South;ANGLE:180,desk|chairs|computer|storage cabinet
+Room02,30,EXIT:South;ANGLE:180,tables|chairs|whiteboard
+Room01,25,EXIT:South;ANGLE:180,tables|chairs|whiteboard
+Room03,20,EXIT:South;ANGLE:180,tables|chairs|whiteboard
+Room07,20,EXIT:South;ANGLE:180,tables|chairs|whiteboard
+ImmersiveRoom,60,EXIT:South;ANGLE:180,VR headsets|computers|screens|motion sensors
+Cafeteria,150,EXIT:South;ANGLE:180,tables|chairs|vending machines|counter|trash bins
+Secretariat,10,EXIT:North;ANGLE:0,desks|chairs|computers|printers|storage cabinets
