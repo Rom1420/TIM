@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="LeanCommon.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+  <Project Path="LeanTouch.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj" />
+  <Project Path="CW.Common.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
+</Solution>
