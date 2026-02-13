@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4670921798532612305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6109965551123729460}
+  - component: {fileID: 3102600767568037773}
+  - component: {fileID: 3845120513563905295}
+  - component: {fileID: 5182651158399016346}
+  m_Layer: 0
+  m_Name: DialogOpener
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6109965551123729460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4670921798532612305}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 685.99774, y: 0, z: 181.6289}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3102600767568037773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4670921798532612305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87e13f075289da4b96403dd578d3939, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogOpener
+  headTransform: {fileID: 0}
+  dialogRoot: {fileID: 0}
+  forwardDistance: 0.5
+  verticalOffset: -0.15
+  toggleAction: {fileID: 5497360779674001311, guid: 6740143930ae523419eb808ea1b9942d, type: 3}
+  allowKeyboardFallback: 1
+  fallbackKey: 114
+  enableDebugLogs: 1
+  mediaDialogController: {fileID: 3845120513563905295}
+  spawnPrefab: {fileID: 541234567890123456, guid: 233791a0811541f7bfe4483e1a2927bb, type: 3}
+  spawnTransform: {fileID: 0}
+  spawnForwardDistance: 1.2
+  spawnVerticalOffset: -0.1
+  spawnScale: {x: 0.3, y: 0.3, z: 0.3}
+--- !u!114 &3845120513563905295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4670921798532612305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bba423fe8b0b8b44986658dac3c2304, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MediaDialogController
+  library: {fileID: 5182651158399016346}
+  tilePrefab: {fileID: 2628581837619180385, guid: 855f28e11aec37a4e85e4c1b7307badc, type: 3}
+  contentRoot: {fileID: 0}
+  allowDebugSpawn: 1
+  enableDebugLogs: 1
+  OnMediaSelected:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5182651158399016346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4670921798532612305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8582131461aae34ab63a56f9d9ffeba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MediaLibrary
+  imagesResourcesPath: Images
+  videosResourcesPath: Videos
+  enableDebugLogs: 1

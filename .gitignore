@@ -97,3 +97,16 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity project in VR/ subfolder
+/VR/[Ll]ibrary/
+/VR/[Tt]emp/
+/VR/[Oo]bj/
+/VR/[Bb]uild/
+/VR/[Bb]uilds/
+/VR/[Ll]ogs/
+/VR/[Uu]ser[Ss]ettings/
+/VR/.vs/
+/VR/.vscode/
+/VR/.plastic/
+/VR/.utmp/
